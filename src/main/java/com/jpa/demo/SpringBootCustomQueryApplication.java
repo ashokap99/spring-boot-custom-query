@@ -8,6 +8,7 @@ public class SpringBootCustomQueryApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootCustomQueryApplication.class, args);
+		System.out.println("asdf");
 	}
 
 }
